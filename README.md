@@ -1,4 +1,4 @@
-# Kotlin RecyclerView Sample
+# RecyclerView Sample
 
 A Kotlin Android application showcasing the use of RecyclerView to display a list of items.
 
